@@ -1085,7 +1085,7 @@ a {
   }
 }
 .cid-uNDl1M74OX .mbr-section-title {
-  text-align: right;
+  text-align: center;
 }
 .cid-uNDl1M74OX .mbr-text {
   text-align: left;
@@ -3106,7 +3106,7 @@ a {
 .cid-uNDVuXzEhN .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #e4dcdc;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -4150,7 +4150,7 @@ a {
   }
 }
 .cid-uNDwZg2p0O {
-  padding-top: 6rem;
+  padding-top: 7rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/4.jpg");
 }
